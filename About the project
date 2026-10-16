@@ -1,0 +1,28 @@
+Social Network Friend Recommendation System Using C++
+
+1. About Our Project
+
+Our project recommends new friends to users based on mutual friends. We use C++ programming, Data Structures and Algorithms (DSA), and Object-Oriented Programming (OOP) to manage users, friendships, and recommendations.
+
+2. Team Members and Their Work
+
+Samiksha – User Management: Manages user information.
+
+Shivam – Graph and Friendship: Creates and manages friendship connections.
+
+Rashi – Mutual Friends: Finds common friends between users.
+
+Abhay – Recommendation System: Suggests potential new friends.
+
+Ridham – Ranking and Sorting: Ranks recommendations based on mutual friends.
+
+Anjali – Integration and Testing: Combines different modules and checks the overall working of the project.
+
+
+3. Result
+
+The system can store user information, represent friendships, identify mutual friends, and recommend potential friends based on common connections. The final results depend on the implemented and tested code.
+
+4. Conclusion
+
+Our project demonstrates how DSA and OOP concepts can be used to develop a simple friend recommendation system using C++. It improves our understanding of graphs, searching, sorting, and modular programming.
